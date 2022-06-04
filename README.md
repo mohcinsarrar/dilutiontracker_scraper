@@ -1,5 +1,3 @@
-# dilutiontracker_scraper
-
 <div id="top"></div>
 <div align="center">
   <h1 align="center">Dilutiontracker Scraper</h1>
